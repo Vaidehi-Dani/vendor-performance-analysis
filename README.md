@@ -1,2 +1,1 @@
-# vendor-performance-analysis
-End-to-end Vendor Performance Analysis using Python, SQL, SQLite, and Power BI to evaluate profitability, inventory, and vendor efficiency.
+This project presents an end-to-end Vendor Performance Analysis solution developed using Python, SQL, SQLite, and Power BI. The project analyzes vendor profitability, purchasing behavior, inventory performance, and sales trends by integrating multiple operational datasets. Through data transformation, exploratory data analysis, and interactive visualizations, the project provides actionable business insights to support data-driven decision-making and optimize procurement strategies.
